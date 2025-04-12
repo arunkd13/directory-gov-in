@@ -1,6 +1,6 @@
 +++
 updated = "2025-04-12"
-title = "Dr. A.P. Poornima"
+title = "A.P. Poornima"
 description = "Greater Chennai Corporation Councillor Ward 87"
 
 [taxonomies]

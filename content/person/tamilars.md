@@ -1,6 +1,6 @@
 +++
 updated = "2025-04-12"
-title = "Dr. Tamilarasi Somu"
+title = "Tamilarasi Somu"
 description = "Greater Chennai Corporation Councillor Ward 183"
 
 [taxonomies]

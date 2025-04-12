@@ -1,6 +1,6 @@
 +++
 updated = "2025-04-12"
-title = "Dr. G. Shanthakumari"
+title = "G. Shanthakumari"
 description = "Greater Chennai Corporation Councillor Ward 81"
 
 [taxonomies]

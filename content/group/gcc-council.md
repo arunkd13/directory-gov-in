@@ -3,7 +3,8 @@ updated = "2025-04-04"
 title = "Greater Chennai Corporation Council"
 
 [taxonomies]
-maintenance = ["incomplete"]
+maintenance = [
+    ]
 head = ["person/priyar"]
 member_of = ["group/gcc"]
 

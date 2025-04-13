@@ -9,4 +9,3 @@ We are just starting out and this site will likely be under development for a lo
 before it becomes practically usable. If you are interested in joining, checkout
 the [project source code](https://github.com/arunkd13/directory-gov-in).
 
-{{ search() }}

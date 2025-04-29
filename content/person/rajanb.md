@@ -10,6 +10,7 @@ maintenance = [
 member_of = [
     "group/gcc-council"
 ]
+elected_by = ["group/gcc-ward-23"]
 
 [extra]
 photo = "https://chennaicorporation.gov.in/gcc/council/council-address/photo/ward023.jpg"

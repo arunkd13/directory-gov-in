@@ -15,6 +15,4 @@ x = "pmoindia"
 facebook = "PMOIndia"
 youtube = "pmoindia"
 wikipedia = "Narendra_Modi"
-
-[extra.links]
 +++

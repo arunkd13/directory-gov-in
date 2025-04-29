@@ -6,6 +6,7 @@ description = "Greater Chennai Corporation Councillor Ward 6"
 [taxonomies]
 maintenance = ["incomplete"]
 member_of = ["group/gcc-council"]
+elected_by = ["group/gcc-ward-6"]
 
 [extra]
 photo = "https://chennaicorporation.gov.in/gcc/council/council-address/photo/ward006.jpg"

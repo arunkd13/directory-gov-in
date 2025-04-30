@@ -44,6 +44,7 @@ x = "fa-brands fa-x-twitter"
 facebook = "fa-brands fa-facebook"
 instagram = "fa-brands fa-instagram"
 youtube = "fa-brands fa-youtube"
+address = "fa-solid fa-map-location-dot"
 
 [extra.link.labels]
 adviser = "Adviser"

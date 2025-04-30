@@ -1,5 +1,7 @@
 {% macro render_contact(key, value) %}
-    {% if key == "phone" %}
+    {% if key == "address" %}
+        {{ value }}
+    {% elif key == "phone" %}
         {% for item in value %}
             <a href="tel:{{ item }}">{{ item }}</a><br>
         {% endfor %}

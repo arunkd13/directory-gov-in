@@ -1,0 +1,3579 @@
++++
+updated = "2025-04-13"
+title = "R. Priya"
+description = "Greater Chennai Corporation Honourable Mayor"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://chennaicorporation.gov.in/gcc/who-is-who/../images/HonbleMayor.png"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445467074",
+    "044-25619300",
+    "044-25384438",
+    "044-25619555",
+    "044-25303600",
+    ]
+
+email = [
+    "mayor@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "M. Magesh Kumaar"
+description = "Greater Chennai Corporation Respectful Deputy Mayor"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://chennaicorporation.gov.in/gcc/who-is-who/../images/DeputyMayor.png"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445467169",
+    "044-25619210",
+    "044-25382979",
+    ]
+
+email = [
+    "deputymayor@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "K.Dhana Sekaran"
+description = "Greater Chennai Corporation Chairman Standing Committee (Accounts)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://chennaicorporation.gov.in/gcc/who-is-who//gcc/council/council-address/photo/ward137.jpg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445467137",
+    "9884012130",
+    ]
+
+email = [
+    "ward137@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "D.Viswanathan"
+description = "Greater Chennai Corporation Chairman Standing Committee (Education)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://chennaicorporation.gov.in/gcc/who-is-who//gcc/council/council-address/photo/ward181.jpg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445467181",
+    "9381006322",
+    ]
+
+email = [
+    "ward181@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "Dr. G. Shanthakumari"
+description = "Greater Chennai Corporation Chairman Standing Committee (Public Health)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://chennaicorporation.gov.in/gcc/who-is-who//gcc/council/council-address/photo/ward081.jpg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445467081",
+    "9444285765",
+    ]
+
+email = [
+    "ward081@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "D.Elango(Alias) D.Elaya Aruna"
+description = "Greater Chennai Corporation Chairman Standing Committee (Town Planning)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://chennaicorporation.gov.in/gcc/who-is-who//gcc/council/council-address/photo/ward049.jpg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445467049",
+    "9444125005",
+    ]
+
+email = [
+    "ward049@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "N. Chitrarasu"
+description = "Greater Chennai Corporation Chairman Standing Committee (Works)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://chennaicorporation.gov.in/gcc/who-is-who//gcc/council/council-address/photo/ward110.jpg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445467110",
+    "9003093333",
+    ]
+
+email = [
+    "ward110@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "Sarbajaya Das"
+description = "Greater Chennai Corporation Chairman Standing Committee (Taxation & Finance)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://chennaicorporation.gov.in/gcc/who-is-who//gcc/council/council-address/photo/ward044.jpg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445467044",
+    "9840293949",
+    ]
+
+email = [
+    "ward044@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "T.M.Thaniarasu"
+description = "Greater Chennai Corporation Chairman Zone -1 (Ward Committee)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://chennaicorporation.gov.in/gcc/who-is-who//gcc/council/council-address/photo/ward010.jpg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445467010",
+    "9941441508",
+    ]
+
+email = [
+    "ward010@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "A.V.Arumugam"
+description = "Greater Chennai Corporation Chairman Zone -2 (Ward Committee)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://chennaicorporation.gov.in/gcc/who-is-who//gcc/council/council-address/photo/ward020.jpg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445467020",
+    "9444332834",
+    ]
+
+email = [
+    "ward020@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "Nandagopal.S"
+description = "Greater Chennai Corporation Chairman Zone -3 (Ward Committee)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://chennaicorporation.gov.in/gcc/who-is-who//gcc/council/council-address/photo/ward025.jpg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445467025",
+    "9444207715",
+    ]
+
+email = [
+    "ward025@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "Nethaji U.Ganesan"
+description = "Greater Chennai Corporation Chairman Zone -4 (Ward Committee)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://chennaicorporation.gov.in/gcc/who-is-who//gcc/council/council-address/photo/ward038.jpg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445467038",
+    "9840796759",
+    ]
+
+email = [
+    "ward038@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "P.Sriramulu"
+description = "Greater Chennai Corporation Chairman Zone -5 (Ward Committee)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://chennaicorporation.gov.in/gcc/who-is-who//gcc/council/council-address/photo/ward054.jpg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445467054",
+    "9841279999",
+    ]
+
+email = [
+    "ward054@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "R.Saritha"
+description = "Greater Chennai Corporation Chairman Zone -6 (Ward Committee)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://chennaicorporation.gov.in/gcc/who-is-who//gcc/council/council-address/photo/ward069.jpg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445467069",
+    "9884243977",
+    ]
+
+email = [
+    "ward069@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "B.K. Murthy"
+description = "Greater Chennai Corporation Chairman Zone -7 (Ward Committee)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://chennaicorporation.gov.in/gcc/who-is-who//gcc/council/council-address/photo/ward080.jpg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445467080",
+    "9840093697",
+    ]
+
+email = [
+    "ward080@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "K.P. Jain"
+description = "Greater Chennai Corporation Chairman Zone -8 (Ward Committee)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://chennaicorporation.gov.in/gcc/who-is-who//gcc/council/council-address/photo/ward094.jpg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445467094",
+    "9283184848",
+    ]
+
+email = [
+    "ward094@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "S.Madhan Mohan"
+description = "Greater Chennai Corporation Chairman Zone -9 (Ward Committee)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://chennaicorporation.gov.in/gcc/who-is-who//gcc/council/council-address/photo/ward114.jpg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445467114",
+    "9444071150",
+    ]
+
+email = [
+    "ward114@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "M.Krishna Moorthy"
+description = "Greater Chennai Corporation Chairman Zone -10 (Ward Committee)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://chennaicorporation.gov.in/gcc/who-is-who//gcc/council/council-address/photo/ward142.jpg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445467142",
+    "9444047366",
+    ]
+
+email = [
+    "ward142@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "V.Rajan"
+description = "Greater Chennai Corporation Chairman Zone -11 (Ward Committee)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://chennaicorporation.gov.in/gcc/who-is-who//gcc/council/council-address/photo/ward143.jpg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445467143",
+    "9600015565",
+    ]
+
+email = [
+    "ward143@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "N.Chandran"
+description = "Greater Chennai Corporation Chairman Zone -12 (Ward Committee)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://chennaicorporation.gov.in/gcc/who-is-who//gcc/council/council-address/photo/ward166.jpg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445467166",
+    "9445012999",
+    ]
+
+email = [
+    "ward166@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "R.Durai Raj"
+description = "Greater Chennai Corporation Chairman Zone -13 (Ward Committee)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://chennaicorporation.gov.in/gcc/who-is-who//gcc/council/council-address/photo/ward172.jpg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445467172",
+    "9884464668",
+    ]
+
+email = [
+    "ward172@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "S.V.Ravichandran"
+description = "Greater Chennai Corporation Chairman Zone -14 (Ward Committee)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://chennaicorporation.gov.in/gcc/who-is-who//gcc/council/council-address/photo/ward184.jpg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445467184",
+    "9790961590",
+    ]
+
+email = [
+    "ward184@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "V.E Mathiyalagan"
+description = "Greater Chennai Corporation Chairman Zone -15 (Ward Committee)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://chennaicorporation.gov.in/gcc/who-is-who//gcc/council/council-address/photo/ward192.jpg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445467192",
+    "9962550333",
+    ]
+
+email = [
+    "ward192@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "J. Kumaragurubaran, I.A.S ."
+description = "Greater Chennai Corporation Commissioner"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "044-25619200",
+    "044-25381330",
+    ]
+
+email = [
+    "commissioner@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "Dr. V. Jaya Chandra Bhanu Reddy, I.A.S."
+description = "Greater Chennai Corporation Additional  Commissioner (Health)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "25386386",
+    "25619336",
+    ]
+
+email = [
+    "dchealth@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "Dr. J. Vijayarani, I.A.S."
+description = "Greater Chennai Corporation Joint Commissioner (Education)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "25383693",
+    "25619205",
+    ]
+
+email = [
+    "dceducation@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "V. Sivakrishnamurthy, I.A.S."
+description = "Greater Chennai Corporation Deputy Commissioner (Works)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "25619351",
+    "25384231",
+    ]
+
+email = [
+    "jcworks@chennaicorporation.gov.in, dcworkscoc@gmail.com",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "M.Birathiviraj, I.A.S."
+description = "Greater Chennai Corporation Deputy Commissioner (Revenue and Finance)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "25619306",
+    ]
+
+email = [
+    "dcrevenue@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "Katta Ravi Teja, I.A.S."
+description = "Greater Chennai Corporation Regional Deputy Commissioner (North)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "25200025",
+    "9445025800",
+    ]
+
+email = [
+    "rdcnorth@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "K.J. Praveen Kumar, I.A.S."
+description = "Greater Chennai Corporation Regional Deputy Commissioner (Central)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "26640224",
+    "9445190150",
+    ]
+
+email = [
+    "rdccentral@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "M.P. Amith, I.A.S."
+description = "Greater Chennai Corporation Regional Deputy Commissioner (South)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "24425982",
+    "9445190100",
+    ]
+
+email = [
+    "rdcsouth@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "K. Vijayakumar"
+description = "Greater Chennai Corporation Chief Engineer (General)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190734",
+    "25619317",
+    ]
+
+email = [
+    "cegeneral@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "D. Anbalagan"
+description = "Greater Chennai Corporation Chief Engineer (SWM and Mechanical) (i/c)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190200",
+    "25619260",
+    ]
+
+email = [
+    "ceswmgcc@gmail.com",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "D. Anbalagan"
+description = "Greater Chennai Corporation Chief Engineer(Parks and Playfield)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9499956219",
+    "25619283",
+    ]
+
+email = [
+    "ceparks@chennaicorporation.gov.in",
+    "ceparksgcc2024@gmail.com",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "Umamaheswari Ramachandran"
+description = "Greater Chennai Corporation Assistant Commissioner (GA&P)  
+
+General Department"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190300",
+    "25619231",
+    ]
+
+email = [
+    "acgap@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "M.A. Perumal"
+description = "Greater Chennai Corporation Deputy Collector (Admin)
+
+ General Department"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445191451",
+    "25619202",
+    ]
+
+email = [
+    "dycollectorgd@gmail.com",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "G. Saravanamurthy"
+description = "Greater Chennai Corporation District Revenue officer (Land & Estate)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190740",
+    "25619478",
+    "25619278",
+    ]
+
+email = [
+    "drolande@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "C. Suresh"
+description = "Greater Chennai Corporation District Revenue Officer (Elections)(i/c)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190730",
+    "25619521",
+    ]
+
+email = [
+    "deoelec.chn@tn.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "D. Senthilkumar"
+description = "Greater Chennai Corporation Public Relation Officer"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "25619256",
+    ]
+
+email = [
+    "pro@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "K. Jagadeeswaran"
+description = "Greater Chennai Corporation Vigilance Officer 
+
+
+Vigilance Cell"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190748",
+    "25368073",
+    "25619297",
+    ]
+
+email = [
+    "vo@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "K. Magesh"
+description = "Greater Chennai Corporation Secretary to Council 
+
+Council Department"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190226",
+    "25382357",
+    "25619323",
+    ]
+
+email = [
+    "councilsec@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "S. Baskaran"
+description = "Greater Chennai Corporation Superintending Engineer (SWD & ADB)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190732",
+    "25619315",
+    ]
+
+email = [
+    "seswd@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "S. Baskaran"
+description = "Greater Chennai Corporation Superintending Engineer (Special Projects Smart City & Registration of Contractors)
+(i/c)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190852",
+    "25619302",
+    ]
+
+email = [
+    "sespecialprojects@gmail.com",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "C.A. Balamurali"
+description = "Greater Chennai Corporation Superintending Engineer
+ (Electrical)
+(i/c)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190739",
+    "25619371",
+    ]
+
+email = [
+    "seelectrical@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "C.A. Balamurali"
+description = "Greater Chennai Corporation Superintending Engineer
+ (Bus Route Roads)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190735",
+    "25619290",
+    ]
+
+email = [
+    "sebrr@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "B. Shankaravelu"
+description = "Greater Chennai Corporation Superintending Engineer (Bridges & General Co-ordination)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190801",
+    ]
+
+email = [
+    "sebridges@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "B. Shankaravelu"
+description = "Greater Chennai Corporation Superintending Engineer 
+(SWM)
+(i/c)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9499956220",
+    "25619228",
+    "25619385",
+    ]
+
+email = [
+    "seswm@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "B. Shankaravelu"
+description = "Greater Chennai Corporation Superintending Engineer (Mechanical)(i/c)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190731",
+    "25303862",
+    ]
+
+email = [
+    "semechanical@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "R. Vijayalakshmi"
+description = "Greater Chennai Corporation Superintending Engineer (Parks  Playfields and CRRT)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445026061",
+    "25303620",
+    ]
+
+email = [
+    "",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "H.Murugan"
+description = "Greater Chennai Corporation Superintending Engineer (Buildings)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "",
+    ]
+
+email = [
+    "",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "S.Rajeswari"
+description = "Greater Chennai Corporation Superintending Engineer (Quality Control)(i/c)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "",
+    ]
+
+email = [
+    "",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "M. Elangovan"
+description = "Greater Chennai Corporation Divisional Electrical Engineer (H.Q.)  Electrical Department"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190751",
+    "25303748",
+    ]
+
+email = [
+    "dehq@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "M. Govindaraju"
+description = "Greater Chennai Corporation Financial Adviser 
+
+Accounts Central Cell"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190741",
+    "25619211",
+    "25303835",
+    ]
+
+email = [
+    "fa@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "T. Karunakaran"
+description = "Greater Chennai Corporation Chief Accounts Officer (Budget)
+
+
+Accounts Central Cell (i/c)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445026007",
+    "25303801",
+    ]
+
+email = [
+    "caob@chennaicorporation.gov.in, cao_budget@yahoo.com",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "T.K.Thamaraiselvan"
+description = "Greater Chennai Corporation Chief Accounts Officer (Establishment)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445026006",
+    "25303799",
+    ]
+
+email = [
+    "caoe@chennaicorporation.gov.in",
+    "aoacc@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "R. Anbarasu"
+description = "Greater Chennai Corporation Chief Accounts Officer(Head Quarters)
+
+Accounts Central Cell"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445026005",
+    "25619233",
+    ]
+
+email = [
+    "caohq@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "Dr.M. Jagadeesan"
+description = "Greater Chennai Corporation City Health Officer 
+
+
+Public Health Department"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "25619337",
+    "25619330",
+    ]
+
+email = [
+    "ho@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "Dr.S.Selvakumar"
+description = "Greater Chennai Corporation Chief Vector Control Officer"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190729",
+    "25303656",
+    ]
+
+email = [
+    "cvco@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "Dr.M.Lakshmi Devi"
+description = "Greater Chennai Corporation Addl.City Health Officer (i/c) (Head Quarters) 
+
+Public Health Department"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190744",
+    "25619330",
+    ]
+
+email = [
+    "",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "Dr.J.Kamal Hussain"
+description = "Greater Chennai Corporation Veterinary Officer"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190746",
+    "25303657",
+    ]
+
+email = [
+    "vetsec@gmail.com",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "Dr.S.Kandavel"
+description = "Greater Chennai Corporation Director (i/c)  C.D.H"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190707",
+    "25912686",
+    "25912687",
+    "25912688",
+    ]
+
+email = [
+    "cdhpcrlab2020@gmail.com",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "Dr.S.Banumathi"
+description = "Greater Chennai Corporation City Medical Officer  Medical Service Department"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190857",
+    "25619338",
+    "9840746192",
+    ]
+
+email = [
+    "dfwbeoc@gmail.com, msdgcc2021@gmail.com",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "C. Baby Ramono"
+description = "Greater Chennai Corporation Additional City Medical Officer(i/c) 
+
+Medical Service Department"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190858",
+    "25619653",
+    "9444823358",
+    ]
+
+email = [
+    "dfwbeoc@gmail.com, msdgcc2021@gmail.com",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "K.P.Bhanuchandran"
+description = "Greater Chennai Corporation City Revenue Officer (i/c)  
+
+Revenue Department"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "",
+    ]
+
+email = [
+    "ro@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "M.Amalaselvi Sabarmathi"
+description = "Greater Chennai Corporation Joint Director (L.F.Audit) 
+
+Local Fund Audit Department (Audit)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "25383296",
+    ]
+
+email = [
+    "jdauditcoc@gmail.com",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "J Vasanthi"
+description = "Greater Chennai Corporation Educational Officer (i/c)
+
+Education Department"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190747",
+    "25619428",
+    "25619462",
+    ]
+
+email = [
+    "eo@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "S.Jacob Rajan Babu"
+description = "Greater Chennai Corporation Senior Law Officer 
+
+Legal Cell"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190222",
+    "25619412",
+    ]
+
+email = [
+    "lawofficer@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "S.Kanchana"
+description = "Greater Chennai Corporation Chairman 
+
+Taxation Appeals Tribunal"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "25383735",
+    "25619380",
+    ]
+
+email = [
+    "tat@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "N. Prabhu Kumar"
+description = "Greater Chennai Corporation Sports Officer (i/c)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445026098",
+    "25302632",
+    ]
+
+email = [
+    "stadiumgcc@gmail.com",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "V.Ravichandran"
+description = "Greater Chennai Corporation Assistant Director-Small Savings"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9444141471",
+    "28581666",
+    ]
+
+email = [
+    "adssgcc@gmail.com",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "Lalitha Prabakar"
+description = "Greater Chennai Corporation Joint Director 
+
+P.O.Magalir Thittam 100  Anna Salai"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445034100",
+    "22350636",
+    "22350616",
+    ]
+
+email = [
+    "",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "Dr T.G. Srinivasan"
+description = "Greater Chennai Corporation Health Education Officer"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445036526",
+    "25619269",
+    ]
+
+email = [
+    "",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "M.V. Krishnakumari"
+description = "Greater Chennai Corporation Senior System Manager 
+ Information Technology Cell (IT Cell)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9444173345",
+    "25303601",
+    ]
+
+email = [
+    "it@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "Katta Ravi Teja, I.A.S."
+description = "Greater Chennai Corporation Regional Deputy Commissioner (North)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "25200025",
+    "9445025800",
+    ]
+
+email = [
+    "rdcnorth@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "E. Muruganandam"
+description = "Greater Chennai Corporation Deputy Collector (Admin)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445477657",
+    ]
+
+email = [
+    "",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "M. Gunasekar"
+description = "Greater Chennai Corporation Deputy Collector(Land & Estate)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445477658",
+    ]
+
+email = [
+    "",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "M.J. Vasanthi"
+description = "Greater Chennai Corporation Chief Accounts Officer (North)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445026063",
+    ]
+
+email = [
+    "",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "D. Vijula"
+description = "Greater Chennai Corporation Superintending Engineer 
+(North)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190736",
+    "9445467372",
+    ]
+
+email = [
+    "segennorth@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "Dr.M.Lakshmidevi"
+description = "Greater Chennai Corporation Additional City Health Officer"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9841250567",
+    ]
+
+email = [
+    "addlchonorth@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "C. Vijay Babu"
+description = "Greater Chennai Corporation DRO/Zonal Officer  Zone-I (Thiruvottriyur)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190001",
+    "9445190201",
+    "25993494",
+    ]
+
+email = [
+    "aczone1@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "T. Karunakaran"
+description = "Greater Chennai Corporation Zonal Officer 
+
+Zone-II (Manali)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190002",
+    "9445190202",
+    "25941079",
+    ]
+
+email = [
+    "aczone2@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "N. Thirumurugan"
+description = "Greater Chennai Corporation Zonal Officer 
+
+Zone III (Madhavaram)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190003",
+    "9445190203",
+    "25530427",
+    ]
+
+email = [
+    "aczone3@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "R. Purusothaman"
+description = "Greater Chennai Corporation Zonal Officer 
+(i/c)
+
+Zone IV (Tondiarpet)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190004",
+    "9445190204",
+    "25951083",
+    "25961199",
+    ]
+
+email = [
+    "aczone4@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "Dr. D. Faritha Banu"
+description = "Greater Chennai Corporation DRO/Zonal Officer  Zone V (Royapuram)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190005",
+    "9445190205",
+    "25206655",
+    "25209269",
+    ]
+
+email = [
+    "aczone5@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "K.J. Praveen Kumar, I.A.S."
+description = "Greater Chennai Corporation Regional Deputy Commissioner (Central)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "26640224",
+    "9445190150",
+    ]
+
+email = [
+    "rdccentral@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "A. Kavitha"
+description = "Greater Chennai Corporation Deputy Collector (Admin)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445477660",
+    ]
+
+email = [
+    "",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "J. Karkuzhali"
+description = "Greater Chennai Corporation Deputy Collector (Land & Estate)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445477659",
+    ]
+
+email = [
+    "",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "V. Chitra"
+description = "Greater Chennai Corporation Chief Accounts Officer(Central)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445026037",
+    ]
+
+email = [
+    "",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "S.Rajeswari"
+description = "Greater Chennai Corporation Superintending Engineer"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190736",
+    ]
+
+email = [
+    "segencentral@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "Dr.B. Ashalatha"
+description = "Greater Chennai Corporation Additional City Health Officer 
+(i/c)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445026002",
+    "9962592545",
+    ]
+
+email = [
+    "addlchocentral@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "A.S.Murugan"
+description = "Greater Chennai Corporation Zonal Officer  Zone VI (Thiru-Vi-Ka Nagar)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190006",
+    "9445190206",
+    "26741802",
+    ]
+
+email = [
+    "aczone6@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "K. Sundararajan"
+description = "Greater Chennai Corporation Zonal Officer (i/c)
+
+Zone VII (Ambattur)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "94451 90007",
+    "9445190207",
+    "26241999",
+    ]
+
+email = [
+    "aczone7@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "C. Suresh"
+description = "Greater Chennai Corporation DRO/Zonal Officer  Zone VIII (Anna Nagar)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190208",
+    "9445190008",
+    "26412646",
+    "26415372",
+    ]
+
+email = [
+    "aczone8@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "P.S. Srinivasan"
+description = "Greater Chennai Corporation Zonal Officer 
+
+Zone IX(Teynampet)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "28170738",
+    "9445190009",
+    "28174775",
+    ]
+
+email = [
+    "aczone9@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "P. Murugesan"
+description = "Greater Chennai Corporation Zonal Officer   Zone X (Kodambakkam)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "94451 90010",
+    "9445190210",
+    "24838968",
+    "24801959",
+    ]
+
+email = [
+    "aczone10@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "M.P. Amith, I.A.S."
+description = "Greater Chennai Corporation Regional Deputy Commissioner (South)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "24425982",
+    "9445190100",
+    ]
+
+email = [
+    "rdcsouth@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "N. Pushnadevi"
+description = "Greater Chennai Corporation Deputy Collector (Admin)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445191439",
+    ]
+
+email = [
+    "",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "R.M. Ibrahim"
+description = "Greater Chennai Corporation Deputy Collector (Land & Estate)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9444061790",
+    ]
+
+email = [
+    "",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "G. Renuka"
+description = "Greater Chennai Corporation Chief Accounts Officer(South)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445026036",
+    ]
+
+email = [
+    "",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "R. Balasubramaniam"
+description = "Greater Chennai Corporation Superintending Engineer"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190737",
+    ]
+
+email = [
+    "sesouthgl@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "Dr. A.Suganya Devi"
+description = "Greater Chennai Corporation Additional City Health Officer"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445026003",
+    ]
+
+email = [
+    "addlchosouth@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "K. Umapathy"
+description = "Greater Chennai Corporation Zonal Officer 
+ 
+Zone XI (Valasaravakkam)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190211",
+    "24867725",
+    ]
+
+email = [
+    "aczone11@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "S. Murugadoss"
+description = "Greater Chennai Corporation DRO/Zonal Officer 
+ 
+Zone XII (Alandur)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190012",
+    "9445190212",
+    "22341702",
+    "22342355",
+    ]
+
+email = [
+    "aczone12@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "P.V. Srinivasan"
+description = "Greater Chennai Corporation Zonal Officer   Zone XIII (Adyar)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190013",
+    "9445190213",
+    "24425961",
+    "24425963",
+    ]
+
+email = [
+    "aczone13@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "M. Senthil Murugan"
+description = "Greater Chennai Corporation Joint Director/Zonal Officer 
+
+
+Zone-XIV (Perungudi)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190014",
+    "9445190214",
+    "22420520",
+    ]
+
+email = [
+    "aczone14@chennaicorporation.gov.in",
+    ]
++++
+
++++
+updated = "2025-04-13"
+title = "D. Rajasekar"
+description = "Greater Chennai Corporation Zonal Officer 
+
+Zone-XV (Sozhinganallur)"
+
+[taxonomies]
+maintenance = [
+
+]
+member_of = [
+    "group/gcc"
+]
+
+[extra]
+
+photo = "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+
+sources = [
+    "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp"
+]
+
+[extra.contacts]
+
+phone = [
+    "9445190015",
+    "9445190215",
+    "24500923",
+    ]
+
+email = [
+    "aczone15@chennaicorporation.gov.in",
+    ]
++++
+

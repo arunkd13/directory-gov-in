@@ -1,5 +1,5 @@
 +++
-updated = "2025-04-05"
+updated = "2025-05-21"
 title = "J. Kumaragurubaran"
 description = "Greater Chennai Corporation Commissioner"
 
@@ -8,6 +8,7 @@ maintenance = ["incomplete"]
 member_of = ["group/gcc"]
 
 [extra]
+photo = "https://pbs.twimg.com/profile_images/1880525779408424960/tm2r0WM7_400x400.jpg"
 sources = [
     "https://chennaicorporation.gov.in/gcc/who-is-who/index_data.jsp",
 ]
